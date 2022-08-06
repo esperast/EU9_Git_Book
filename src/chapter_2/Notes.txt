@@ -4,3 +4,9 @@ N   N   N
 N     N N
 N       N
 
+ OOOOOOO
+O       O
+O  O O  O
+O       O
+O   0   O
+ OOOOOOO
